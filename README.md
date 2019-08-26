@@ -2,8 +2,10 @@
 ## Bachelor of Computer Science & Engineering @ Instituto Superior Técnico
 Project, R-Type
 <br><br>
+
 #### Language
 Assembly
+
 #### How to play (windows)
 1. Run comp.bat
 2. Open p3sim.jar
