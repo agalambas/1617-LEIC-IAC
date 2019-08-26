@@ -1,0 +1,1 @@
+del "game.exe" *.lis
